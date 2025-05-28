@@ -1,0 +1,53 @@
+text,label
+Chain-of-thought reasoning prompts improve multi-step arithmetic performance.,1
+She embroidered her initials on a handkerchief for her friend.,0
+Contrastive loss functions are used in representation learning for clustering.,1
+Prompt engineering adjusts model behavior through structured input patterns.,1
+Reinforcement learning from human feedback improves conversational alignment.,1
+She mailed the birthday card with pressed flowers inside the envelope.,0
+The bakery near our house smells like cinnamon rolls in the morning.,0
+They cleaned the garage and found old toys from their childhood.,0
+My family visited the lighthouse at the edge of the rocky coast.,0
+We heard the train whistle as it passed by the quiet countryside.,0
+They camped by the lake and told ghost stories by the fire.,0
+Knowledge distillation compresses large models into efficient student versions.,1
+Text-to-image synthesis involves mapping captions to latent image features.,1
+Autoencoders reconstruct input text using bottleneck representations.,1
+He built a wooden birdhouse and hung it in the oak tree.,0
+He taught his little brother how to tie his shoelaces.,0
+I’ve been practicing the guitar for an hour every morning before work.,0
+He painted the kitchen walls a light shade of green over the weekend.,0
+She made lemonade with fresh lemons and a pinch of mint.,0
+Generated answers sometimes reflect biases from pretraining corpora.,1
+We went to the farmer’s market and bought fresh peaches and strawberries.,0
+I watched the sun rise while sitting on the balcony with a blanket.,0
+Unsupervised pretraining on large corpora precedes downstream task fine-tuning.,1
+She writes a new journal entry every night before going to bed.,0
+We had dinner at a small restaurant tucked away in an alley.,0
+Semantic similarity metrics are used to fine-tune sentence embeddings in BERT.,1
+The AI rewrites user queries for better retrieval in question answering pipelines.,1
+Synthetic reviews are generated for adversarial robustness testing.,1
+He surprised her with a handwritten note and a bunch of daisies.,0
+This sentence uses a transformer model to simulate user behavior in dialogue systems.,1
+Self-attention layers compute weighted relevance between tokens in context.,1
+Chatbots trained on customer service logs mimic empathetic communication styles.,1
+The system produces responses influenced by temperature and top-k sampling parameters.,1
+Adversarial training enhances robustness against manipulated input prompts.,1
+Generated code snippets often follow syntactic structure but lack semantic correctness.,1
+She told me a story about her childhood during our walk in the park.,0
+BERTScore is used to evaluate generated summaries against reference documents.,1
+I sat by the river sketching the view into my notebook.,0
+Token-level generation allows for multilingual translation across low-resource languages.,1
+He adopted a stray dog he found shivering outside his apartment.,0
+We fed the ducks at the pond and watched them swim away.,0
+They built a snowman and drank hot cocoa on the porch afterward.,0
+Zero-shot classification leverages textual entailment tasks for generalization.,1
+Autoregressive decoding helps generate coherent and contextually relevant sentences.,1
+GPT-based models can compose scientific abstracts with minimal supervision.,1
+I found an old letter in the attic from my grandfather.,0
+This paragraph was generated based on few-shot prompting techniques.,1
+We planted tulips along the fence and watered them every afternoon.,0
+We spent the rainy day reading by the fireplace with cocoa.,0
+Multimodal transformers align vision and language representations jointly.,1
+They hiked the mountain trail and took photos at the summit.,0
+Transformer encoders enable long-range dependency modeling without recurrence.,1
